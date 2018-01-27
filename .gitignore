@@ -1,0 +1,37 @@
+led / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+.Python
+.python-version
+files/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+src/nosetests.xml
+src/coverage.xml
+*.mo
+*.pot
+*.log
+local_settings.py
+*.sqlite3
+*.idea
+*/venv
+src/server/.idea/*
+.vscode/
+venv/
+migrations/
+.cache/
+Untitled 1.xlsx
+celerybeat-schedule
+downloads/
+media/
+private_media/
+
